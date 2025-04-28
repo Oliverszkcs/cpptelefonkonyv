@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ember">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAGABAAgAASCAAAAAAAAAQAAgAIAAAAA=</HashCode>
+      <FileName>Ember.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lakcim">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAACAAAAAgAAAABAA=</HashCode>
+      <FileName>Lakcim.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lista&lt;T&gt;">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Lista&lt;T&gt;::ListaElem&lt;T&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Lista.hpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAQEQIAAAAgAAAAQAEAAAAAAAAAAAgFAAAAAA=</HashCode>
+      <FileName>Lista.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="atexit_class" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAIAACAAAAAAAAACAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>memtrace.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Telefon">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAABAAIAAAAAAAAAAAAAAAAAAQAgAAABAAA=</HashCode>
+      <FileName>Telefon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="__unnamed_struct_0586_2" Collapsed="true">
+    <Position X="3.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBAAAAAAAAAA=</HashCode>
+      <FileName>memtrace.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_registry_item" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAIAAAAAAAAAAAAAAAEAAAAIAAAA=</HashCode>
+      <FileName>memtrace.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="_Is_Types&lt;F, T&gt;" Collapsed="true">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>gtest_lite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="gtest_lite::Test" Collapsed="true">
+    <Position X="14" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAICAACAEAAAAAAACAAQAAAMEgAAAAAgCAAAAAA=</HashCode>
+      <FileName>gtest_lite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="BOOL" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>memtrace.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="call_t" Collapsed="true">
+    <Position X="3.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>memtrace.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="registry_item" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>memtrace.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="std::new_handler" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>memtrace.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="__unnamed_enum_0586_1" Collapsed="true">
+    <Position X="3.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>memtrace.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
